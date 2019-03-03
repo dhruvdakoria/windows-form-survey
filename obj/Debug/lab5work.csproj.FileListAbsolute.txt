@@ -1,0 +1,13 @@
+D:\prg455\lab5\lab5work\bin\Debug\lab5work.exe.config
+D:\prg455\lab5\lab5work\bin\Debug\lab5work.exe
+D:\prg455\lab5\lab5work\bin\Debug\lab5work.pdb
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.csprojResolveAssemblyReference.cache
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.Form1.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.FormLast.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.FormQ1.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.FormQ2.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.FormQ3.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.Properties.Resources.resources
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.csproj.GenerateResource.Cache
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.exe
+D:\prg455\lab5\lab5work\obj\Debug\lab5work.pdb
